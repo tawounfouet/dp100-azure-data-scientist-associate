@@ -1,0 +1,6 @@
+artifact_location: file:///Users/awf/Projects/azure/azure-data-scientist-associate/mlflow/mlruns/347582798210917144
+creation_time: 1685953031660
+experiment_id: '347582798210917144'
+last_update_time: 1685953031660
+lifecycle_stage: active
+name: heart-condition-classifier

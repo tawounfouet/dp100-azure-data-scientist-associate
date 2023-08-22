@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/awf/Projects/azure/azure-data-scientist-associate/mlflow/mlruns/347582798210917144/9f12d5e6f4c94ca8b9f8c0b0e5c973de/artifacts
+end_time: 1685953217960
+entry_point_name: ''
+experiment_id: '347582798210917144'
+lifecycle_stage: active
+run_id: 9f12d5e6f4c94ca8b9f8c0b0e5c973de
+run_name: dazzling-lark-262
+run_uuid: 9f12d5e6f4c94ca8b9f8c0b0e5c973de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685953217904
+status: 4
+tags: []
+user_id: awf
